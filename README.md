@@ -1,10 +1,8 @@
 # React JS Hooks: De Cero a Experto Creado Aplicaciones Reales
 
-_Curso donde se enseña a programar React JS desde lo básico a lo avanzado, al final crearemos varias aplicaciones que te puedas encontrar en el mundo laborar._
+_Curso en Udemy donde podras aprender desde cero React JS._
 
 **Curso:** https://courses.agustinnavarrogaldon.com/react
-
-**Demo:** https://tweets-simulator-react-redux.netlify.com/
 
 ## Comenzando 🚀
 
@@ -12,7 +10,7 @@ _Gracias a este curso aprenderás desde los conceptos básicos de **React JS**, 
 
 _Una vez terminado el curso **serás capaz de crear cualquier tipo de aplicación web SPA** conectada a una API de datos sin necesidad de ayuda._
 
-_Aprenderemos desde las bases de **React JS**  y crearemos poderosas páginas webs que consuman APIs de terceros sin dificultad._
+_Aprenderemos desde las bases de **React JS** y crearemos poderosas páginas webs que consuman APIs de terceros sin dificultad._
 
 _También vamos a aprender a crear aplicaciones web con **Next.JS** para hacer webs **Server Rendered** y aprenderemos a usar **REDUX** con **React JS**._
 
@@ -25,7 +23,7 @@ _También vamos a aprender a crear aplicaciones web con **Next.JS** para hacer w
 - Aprenderemos a consumir API REST.
 - Una nueva forma de trabajar más ordenada, limpia y declarativa por componentes.
 - Conocer todo lo que tiene React y lo que podemos hacer con el.
-- Conocer qué es el State, Props, Tipos de Componentes en React y mucho más!
+- ¡Conocer qué es el State, Props, Tipos de Componentes en React y mucho más!
 - Utilizaremos React JS con otras tecnologías de JavaScript como LocalStorage.
 - Deployment de Aplicaciones en React de una manera muy rápida y sencilla.
 - Crearemos una web de React completamente con estáticos usando Next JS.
